@@ -41,11 +41,14 @@
  
  ### Задание 2
  
- 2. Скриншоты
- -  []()
+ - здесь скрин что memcached установлен и демон запущен [screen memcashed.service](https://github.com/Klochkov777/redis/blob/master/screen/memcached_status.png)
 
  
  ### Задание 3
  
+ - здесь скрин что в memcached установлено 5 ключ-значений с TTL = 5, и по просшествии 5с они отсутствие их в кэше соответственн [screen memcashed work](https://github.com/Klochkov777/redis/blob/master/screen/memcach_work.png)
  
  ### Задание 4
+ 
+ - здесь скрин что redis установлен и демон запущен и продемонстрирована работа с ним [screen redis](https://github.com/Klochkov777/redis/blob/master/screen/redis.png)
+ 
